@@ -14,7 +14,7 @@
   "dependencies": {
     "chokidar": "^3.0.2",
     "move-file": "^1.2.0",
-    "node-notifier": "^5.4.3"
+    "node-notifier": "^8.0.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
